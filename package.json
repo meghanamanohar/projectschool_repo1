@@ -1,0 +1,21 @@
+{
+  "name": "ajaxlite",
+  "version": "1.0.0",
+  "description": "my second node project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "node",
+    "second",
+    "website"
+  ],
+  "author": "meghana manohar",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "live-server": "^1.2.2"
+  }
+}
