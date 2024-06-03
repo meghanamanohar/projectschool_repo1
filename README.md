@@ -1,1 +1,1 @@
-# projectschool_repo1
+# Mental_Wellness_Quotient
